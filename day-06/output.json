@@ -1,0 +1,13 @@
+[
+    {
+        "INFO": 10,
+        "WARNING": 2,
+        "ERROR": 3,
+        "UNKNOWN": 6
+    },
+    [
+        "2025-01-10 09:10:22 ERROR Failed to fetch user data\n",
+        "2025-01-10 09:10:25 ERROR Database timeout occurred\n",
+        "2025-01-10 09:25:10 ERROR Unable to write logs to disk\n"
+    ]
+]

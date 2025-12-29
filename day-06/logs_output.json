@@ -1,0 +1,20 @@
+[
+    {
+        "INFO": 10,
+        "WARNING": 2,
+        "ERROR": 3,
+        "UNKNOWN": 6
+    },
+    [
+        "2025-01-10 09:00:01 INFO Application started successfully\n",
+        "2025-01-10 09:00:05 INFO Connecting to database\n",
+        "2025-01-10 09:00:07 INFO Database connection established\n",
+        "2025-01-10 09:05:15 INFO Memory usage back to normal\n",
+        "2025-01-10 09:15:30 INFO Retrying database connection\n",
+        "2025-01-10 09:15:32 INFO Database connection successful\n",
+        "2025-01-10 09:20:50 INFO Disk cleanup initiated\n",
+        "2025-01-10 09:25:15 INFO Log rotation completed\n",
+        "2025-01-10 09:30:00 INFO Application shutdown initiated\n",
+        "2025-01-10 09:30:05 INFO Application stopped\n"
+    ]
+]
